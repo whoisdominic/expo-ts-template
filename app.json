@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Slainted",
-    "slug": "Slainted",
-    "version": "1.0.0",
+    "name": "TS-Template",
+    "slug": "TS-Template",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {

@@ -11,7 +11,7 @@ npm i
 Go to your app.json and change your app's name
 
 ```json
-    "YOUR APPS NAME",
+    "name": "YOUR APPS NAME",
     "slug": "YOUR APPS NAME",
 ```
 
